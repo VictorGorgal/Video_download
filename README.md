@@ -1,4 +1,4 @@
-# Video_download
-Algoritmo simples para efetuar o download do áudio de um vídeo.
+# Video download
+Simple algorithm to download audio from a video.
 
-Insira a URL seguida pelo nome do arquivo que será salvo.
+Enter the URL followed by the name of the file to be saved.
